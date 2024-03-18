@@ -1,1 +1,1 @@
-## Kaggle notebooks form Intermediate ML and Pandas ML courses
+## Kaggle notebooks form Intermediate ML and Pandas courses
